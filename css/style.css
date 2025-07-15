@@ -171,8 +171,7 @@ body {
 }
 @media (max-width: 767px) {
   .skills {
-    margin-top: 0px;
-    margin-bottom: 0px;
+    padding-block:60px
   }
 }
 .skills .container {
